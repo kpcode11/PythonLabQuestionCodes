@@ -1,0 +1,5 @@
+Total 'error' occurrences: 3
+==================================================
+Line 2: [ERROR] Database connection failed
+Line 4: [ERROR] File not found: config.json
+Line 7: [ERROR] Invalid API key received

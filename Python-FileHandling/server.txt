@@ -1,0 +1,7 @@
+[INFO] Server started on port 8080
+[ERROR] Database connection failed
+[WARNING] High memory usage detected
+[ERROR] File not found: config.json
+[DEBUG] Processing request from 192.168.1.1
+[INFO] User admin logged in
+[ERROR] Invalid API key received
